@@ -1,0 +1,1 @@
+This is a video to gif converter powered by FFmpeg.
